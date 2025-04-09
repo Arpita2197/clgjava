@@ -1,7 +1,7 @@
 class B {
 
 
-     //Q2
+     //Q2  find the reminder using modulus operator....
 
 
       public static void main(String[] args) {
