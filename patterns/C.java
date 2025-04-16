@@ -1,4 +1,4 @@
-class C {
++class C {
 
      public static void main(String[] args) {
 
@@ -10,6 +10,8 @@ class C {
              }
 
               for(int j=1;j<=i;j++) {
+
+
 
                  System.out.print("*");
               }
